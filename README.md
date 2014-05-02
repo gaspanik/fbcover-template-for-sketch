@@ -1,5 +1,7 @@
 # FbCover Template for Sketch 3
 
+![Export](https://raw.githubusercontent.com/gaspanik/fbcover-template-for-sketch/master/fbcover-sketch.png)
+
 Free for use.
 
 ## Export FileType
